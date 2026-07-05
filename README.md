@@ -1,1 +1,1 @@
-This is a Class 12 CBSE Computer Science Project, developed by Abheek Kumar Sarangi, Indita Gandhi memorial High School, Dum Dum, for his AISSCE 2026 Examination.
+This is a Bookshop management app Project, developed by Abheek Kumar Sarangi, with AI assistance using the human-in-the-loop process
