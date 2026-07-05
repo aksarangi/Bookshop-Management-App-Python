@@ -1,0 +1,5 @@
+matplotlib
+mysql-connector-python
+Pillow
+python-dotenv
+bcrypt
